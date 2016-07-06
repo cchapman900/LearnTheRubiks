@@ -1,18 +1,18 @@
 <!doctype html>
-<html><!-- InstanceBegin template="/Templates/step.dwt" codeOutsideHTMLIsLocked="false" -->
+<html>
 <head>
 <meta charset="UTF-8">
 	<title>
 		Learn | 
-		<!-- InstanceBeginEditable name="doctitle" -->
+		<!-- TemplateBeginEditable name="doctitle" -->
 			Step 2: First Layer Corners
-		<!-- InstanceEndEditable -->
+		<!-- TemplateEndEditable -->
 	</title>
 <!-- Bootstrap -->
 <link rel="stylesheet" href="css/bootstrap.css">
 <link href="css/main.css" rel="stylesheet">
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 
 <body>
@@ -45,14 +45,14 @@
 			<div class="col-md-8 col-md-offset-2 text-center">
 				<div class="row">
 					<h2>Step 
-						<!-- InstanceBeginEditable name="stepnumber" -->
+						<!-- TemplateBeginEditable name="stepnumber" -->
 						1
-						<!-- InstanceEndEditable -->
+						<!-- TemplateEndEditable -->
 						<br/>
 						<span class="small">
-						<!-- InstanceBeginEditable name="steptitle" -->
+						<!-- TemplateBeginEditable name="steptitle" -->
 						First Layer Sides
-						<!-- InstanceEndEditable -->
+						<!-- TemplateEndEditable -->
 						</span>
 					</h2>
 				</div>
@@ -60,24 +60,24 @@
 					<h4> Moves</h4>
 					<h3 class="alert alert-success"> 
 					
-						<!-- InstanceBeginEditable name="numberofmoves" -->
+						<!-- TemplateBeginEditable name="numberofmoves" -->
 						1 
-						<!-- InstanceEndEditable -->
+						<!-- TemplateEndEditable -->
 					</h3>
 				</div>
 				<div class="col-md-4">
-					<!-- InstanceBeginEditable name="summarygif" -->
+					<!-- TemplateBeginEditable name="summarygif" -->
 					&lt;gif of the moves&gt;
-					<!-- InstanceEndEditable -->
+					<!-- TemplateEndEditable -->
 				</div>
 				<div class="col-md-4">
 					<h4>
 						Difficulty
 					</h4>
 					<h3 class="alert alert-success"> 
-						<!-- InstanceBeginEditable name="difficulty" -->
+						<!-- TemplateBeginEditable name="difficulty" -->
 						Easy
-						<!-- InstanceEndEditable -->
+						<!-- TemplateEndEditable -->
 					</h3>
 				</div>
 			</div>
@@ -86,17 +86,17 @@
 			<div class="col-md-8">
 				<h3>Goal</h3>
 				
-				<!-- InstanceBeginEditable name="goal" -->
+				<!-- TemplateBeginEditable name="goal" -->
 				<h4 class="left-indent text-muted">The Cross</h4>
 				<p class="left-indent"> As mentioned <a href="#">our introduction</a>, we're not just trying to solve one <strong>side</strong>, but rather an entire <strong>layer</strong>. Take note that the side pieces
 					don't just match the white side, but also the red and blue centers as well. </p>
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 				
 			</div>
 			<div class="col-md-4">
-				<!-- InstanceBeginEditable name="goalimage" -->
+				<!-- TemplateBeginEditable name="goalimage" -->
 				&lt;abstract solved 1st layer&gt;
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</div>
 		</div>
 		<hr>
@@ -107,33 +107,33 @@
 		</div>
 		<div class="row">
 			<div class="col-md-8">
-				<!-- InstanceBeginEditable name="technique" -->
+				<!-- TemplateBeginEditable name="technique" -->
 				<p class="left-indent">This move is almost excactly the same as the one we used
 				in the step before for the corners. However, it is just one layer up.
 				</p>
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</div>
 			<div class="col-md-4">
-				<!-- InstanceBeginEditable name="techniqueimage" -->
+				<!-- TemplateBeginEditable name="techniqueimage" -->
 				&lt;illustration of the move (arrow from middle piece)&gt;
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</div>
 		</div>
 		<hr>
 		<div class="row">
 			<div class="col-md-8">
 				<h3>Starting Position</h3>
-				<!-- InstanceBeginEditable name="startingposition" -->
+				<!-- TemplateBeginEditable name="startingposition" -->
 				<p class="left-indent">
 					This move will take a piece from the bottom layer and move it into position in the top layer without
 					offseting any other corner pieces that might already be in position.
 				</p>
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</div>
 			<div class="col-md-4">
-				<!-- InstanceBeginEditable name="startingpositionimage" -->
+				<!-- TemplateBeginEditable name="startingpositionimage" -->
 				<p>&lt;correct starting position, and incorrect starting positions&gt;</p>
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</div>
 		</div>
 		<hr>
@@ -141,7 +141,7 @@
 			<div class="col-md-8">
 				<h3> The Moves</h3>
 				
-				<!-- InstanceBeginEditable name="moves" -->
+				<!-- TemplateBeginEditable name="moves" -->
 				
 				<p class="left-indent">
 					With the 1st layer facing up, and the target piece on the bottom layer facing out towards you:
@@ -158,15 +158,15 @@
 						</li>
 					</ol>
 				</p>
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</div>
 			<div class="col-md-4">
-				<!-- InstanceBeginEditable name="movesimage" -->
+				<!-- TemplateBeginEditable name="movesimage" -->
 				&lt;grid illustration of each move&gt;
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</div>
 		</div>
-		<!-- InstanceBeginEditable name="problemscenarios" -->
+		<!-- TemplateBeginEditable name="problemscenarios" -->
 		<hr>
 		<div class="row">
 			<div class="col-md-8">
@@ -180,7 +180,7 @@
 			</div>
 			<div class="col-md-4">&lt;grid illustration of each move&gt;</div>
 		</div>
-		<!-- InstanceEndEditable -->
+		<!-- TemplateEndEditable -->
 	</div>
 	<!-- /container -->
 
@@ -192,4 +192,4 @@
 		<script src="js/bootstrap.js"></script>
 	</div>
 </body>
-<!-- InstanceEnd --></html>
+</html>
