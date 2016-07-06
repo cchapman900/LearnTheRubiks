@@ -46,12 +46,12 @@
 				<div class="row">
 					<h2>Step 
 						<!-- TemplateBeginEditable name="stepnumber" -->
-						1
+						x
 						<!-- TemplateEndEditable -->
 						<br/>
 						<span class="small">
 						<!-- TemplateBeginEditable name="steptitle" -->
-						First Layer Sides
+						xxx
 						<!-- TemplateEndEditable -->
 						</span>
 					</h2>
@@ -61,7 +61,7 @@
 					<h3 class="alert alert-success"> 
 					
 						<!-- TemplateBeginEditable name="numberofmoves" -->
-						1 
+						x
 						<!-- TemplateEndEditable -->
 					</h3>
 				</div>
@@ -74,14 +74,15 @@
 					<h4>
 						Difficulty
 					</h4>
+					<!-- TemplateBeginEditable name="difficulty" -->
 					<h3 class="alert alert-success"> 
-						<!-- TemplateBeginEditable name="difficulty" -->
 						Easy
-						<!-- TemplateEndEditable -->
 					</h3>
+					<!-- TemplateEndEditable -->
 				</div>
 			</div>
 		</div>
+		<hr>
 		<div class="row">
 			<div class="col-md-8">
 				<h3>Goal</h3>
@@ -102,14 +103,14 @@
 		<hr>
 		<div class="row">
 			<div class="col-md-8">
-				<h3> The Techniques</h3>
+				<h3> The Technique</h3>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-8">
 				<!-- TemplateBeginEditable name="technique" -->
-				<p class="left-indent">This move is almost excactly the same as the one we used
-				in the step before for the corners. However, it is just one layer up.
+				<p class="left-indent">
+					___
 				</p>
 				<!-- TemplateEndEditable -->
 			</div>
@@ -125,8 +126,7 @@
 				<h3>Starting Position</h3>
 				<!-- TemplateBeginEditable name="startingposition" -->
 				<p class="left-indent">
-					This move will take a piece from the bottom layer and move it into position in the top layer without
-					offseting any other corner pieces that might already be in position.
+					___
 				</p>
 				<!-- TemplateEndEditable -->
 			</div>
@@ -144,17 +144,16 @@
 				<!-- TemplateBeginEditable name="moves" -->
 				
 				<p class="left-indent">
-					With the 1st layer facing up, and the target piece on the bottom layer facing out towards you:
+					With the...:
 					<ol style="padding-left: 60px">
 						<li>
-							Rotate the bottom layer <strong>across</strong> from the side it's on
+							xxx
 						</li>
-						<li> Bring the side it was on <strong>down</strong></li>
-						<li>
-							Bring the bottom layer <strong>back</strong> over
+						<li> 
+							xyz
 						</li>
 						<li>
-							Rotate that side back up
+							abc
 						</li>
 					</ol>
 				</p>
@@ -166,21 +165,6 @@
 				<!-- TemplateEndEditable -->
 			</div>
 		</div>
-		<!-- TemplateBeginEditable name="problemscenarios" -->
-		<hr>
-		<div class="row">
-			<div class="col-md-8">
-				<h3>Problem Scenarios</h3>
-
-				<p class="left-indent">
-					In the case of having the corner facing down, instead of out... or if it is in the top layer, but
-					not matching the side center pieces, we can use the excact same move to "knock" it out of position
-					into hopefully the correct starting position.
-				</p>
-			</div>
-			<div class="col-md-4">&lt;grid illustration of each move&gt;</div>
-		</div>
-		<!-- TemplateEndEditable -->
 	</div>
 	<!-- /container -->
 
