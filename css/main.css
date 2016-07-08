@@ -1,5 +1,9 @@
 /* CSS Document */
 
+body {
+	padding-bottom: 50px;
+}
+
 .display {
 	font-family: 'Pacifico', cursive;
 }
