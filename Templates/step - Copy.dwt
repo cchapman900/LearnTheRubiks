@@ -1,14 +1,17 @@
 <!doctype html>
-<html><!-- InstanceBegin template="/Templates/step.dwt" codeOutsideHTMLIsLocked="false" -->
+<html>
 <head>
 <meta charset="UTF-8">
-<!-- InstanceBeginEditable name="doctitle" -->
-			Step 2: First Layer Corners
-		<!-- InstanceEndEditable -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
-<link href="css/main.css" rel="stylesheet" type="text/css">
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="../css/main.css" rel="stylesheet" type="text/css">
+</head>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 
 <body>
@@ -41,12 +44,14 @@
 			<div class="col-md-8 col-md-offset-2 text-center">
 				<div class="row">
 					<h2>Step 
-						<!-- InstanceBeginEditable name="stepnumber" -->5<!-- InstanceEndEditable -->
+						<!-- TemplateBeginEditable name="stepnumber" -->
+						x
+						<!-- TemplateEndEditable -->
 						<br/>
 						<span class="small">
-						<!-- InstanceBeginEditable name="steptitle" -->
-						Third Layer Corner Rotation
-						<!-- InstanceEndEditable -->
+						<!-- TemplateBeginEditable name="steptitle" -->
+						xxx
+						<!-- TemplateEndEditable -->
 						</span>
 					</h2>
 				</div>
@@ -54,22 +59,26 @@
 					<h4> Moves</h4>
 					<h3 class="alert alert-success"> 
 					
-						<!-- InstanceBeginEditable name="numberofmoves" --> 8 <!-- InstanceEndEditable -->
+						<!-- TemplateBeginEditable name="numberofmoves" -->
+						x
+						<!-- TemplateEndEditable -->
 					</h3>
 				</div>
 				<div class="col-md-4">
-					<!-- InstanceBeginEditable name="summarygif" -->
+					<!-- TemplateBeginEditable name="summarygif" -->
 					<br/>
-					<img src="images/step-5.png" alt="" width="99" height="99" class="img-responsive center-block"/> 
-					<!-- InstanceEndEditable -->
+					<img src="images/step-1.png" alt="" width="99" height="99" class="img-responsive center-block"/>
+					<!-- TemplateEndEditable -->
 				</div>
 				<div class="col-md-4">
 					<h4>
 						Difficulty
 					</h4>
-					<!-- InstanceBeginEditable name="difficulty" -->
-					<h3 class="alert alert-danger"> Hard</h3>
-					<!-- InstanceEndEditable -->
+					<!-- TemplateBeginEditable name="difficulty" -->
+					<h3 class="alert alert-success"> 
+						Easy
+					</h3>
+					<!-- TemplateEndEditable -->
 				</div>
 			</div>
 		</div>
@@ -78,17 +87,17 @@
 			<div class="col-md-8">
 				<h3>Goal</h3>
 				
-				<!-- InstanceBeginEditable name="goal" -->
+				<!-- TemplateBeginEditable name="goal" -->
 				<h4 class="left-indent text-muted">The Cross</h4>
 				<p class="left-indent"> As mentioned <a href="#">our introduction</a>, we're not just trying to solve one <strong>side</strong>, but rather an entire <strong>layer</strong>. Take note that the side pieces
 					don't just match the white side, but also the red and blue centers as well. </p>
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 				
 			</div>
 			<div class="col-md-4">
-				<!-- InstanceBeginEditable name="goalimage" -->
+				<!-- TemplateBeginEditable name="goalimage" -->
 				&lt;abstract solved 1st layer&gt;
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</div>
 		</div>
 		<hr>
@@ -99,29 +108,32 @@
 		</div>
 		<div class="row">
 			<div class="col-md-8">
-				<!-- InstanceBeginEditable name="technique" -->
-				<p class="left-indent"> While the concept of this idea is a little harder than the last move, it is very similar in the steps themselves, so it should be much easier than starting from scratch.</p>
-				<p class="left-indent">This technique will rotate 3 corner pieces at once. Figuring out which ones to rotate is the hardest part of this step. The ideal scenario is to have one corner in the correct rotation.</p>
-				<!-- InstanceEndEditable -->
+				<!-- TemplateBeginEditable name="technique" -->
+				<p class="left-indent">
+					___
+				</p>
+				<!-- TemplateEndEditable -->
 			</div>
 			<div class="col-md-4">
-				<!-- InstanceBeginEditable name="techniqueimage" -->
+				<!-- TemplateBeginEditable name="techniqueimage" -->
 				&lt;illustration of the move (arrow from middle piece)&gt;
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</div>
 		</div>
 		<hr>
 		<div class="row">
 			<div class="col-md-8">
 				<h3>Starting Position</h3>
-				<!-- InstanceBeginEditable name="startingposition" -->
-				<p class="left-indent"> With the piece that won't move in the back left side, rotate the cube 180 degrees towards you so that that piece is now on the bottom front left.</p>
-				<!-- InstanceEndEditable -->
+				<!-- TemplateBeginEditable name="startingposition" -->
+				<p class="left-indent">
+					___
+				</p>
+				<!-- TemplateEndEditable -->
 			</div>
 			<div class="col-md-4">
-				<!-- InstanceBeginEditable name="startingpositionimage" -->
+				<!-- TemplateBeginEditable name="startingpositionimage" -->
 				<p>&lt;correct starting position, and incorrect starting positions&gt;</p>
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</div>
 		</div>
 		<hr>
@@ -129,27 +141,28 @@
 			<div class="col-md-4">
 				<h3> The Moves</h3>
 				
-				<!-- InstanceBeginEditable name="moves" -->
+				<!-- TemplateBeginEditable name="moves" -->
 				
 				<p class="left-indent">
 					With the...:
 					<ol style="padding-left: 60px">
-						<li> Right side down</li>
-						<li> Bottom to the left</li>
-						<li> Right side back up</li>
-						<li>Bottom side to the left</li>
-						<li>Bottom back down</li>
-						<li>Bottom rotated 180 degrees around</li>
-						<li>Right side back up</li>
-						<li>Bottom another 180 degrees around </li>
+						<li>
+							xxx
+						</li>
+						<li> 
+							xyz
+						</li>
+						<li>
+							abc
+						</li>
 					</ol>
 				</p>
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</div>
 			<div class="col-md-4">
-				<!-- InstanceBeginEditable name="movesimage" -->
+				<!-- TemplateBeginEditable name="movesimage" -->
 				&lt;grid illustration of each move&gt;
-				<!-- InstanceEndEditable -->
+				<!-- TemplateEndEditable -->
 			</div>
 		</div>
 		<hr/>
@@ -157,10 +170,10 @@
 			<div class="col-md-4 col-md-offset-8 text-center">
 				<h3>Next step...</h3>
 				
-				<!-- InstanceBeginEditable name="nextbutton" -->
+				<!-- TemplateBeginEditable name="nextbutton" -->
 				
-				<a href="#"><span class="glyphicon glyphicon-arrow-right"></span></a>
-				<!-- InstanceEndEditable -->
+				<h4><a href="#"><span class="glyphicon glyphicon-arrow-right"></span></a></h4>
+				<!-- TemplateEndEditable -->
 			</div>
 		</div>
 	</div>
@@ -174,4 +187,4 @@
 		<script src="js/bootstrap.js"></script>
 	</div>
 </body>
-<!-- InstanceEnd --></html>
+</html>

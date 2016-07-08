@@ -2,15 +2,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-	<title>
-		Learn | 
-		<!-- TemplateBeginEditable name="doctitle" -->
-			Step 2: First Layer Corners
-		<!-- TemplateEndEditable -->
-	</title>
-<!-- Bootstrap -->
-<link rel="stylesheet" href="css/bootstrap.css">
-<link href="css/main.css" rel="stylesheet">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../css/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="../css/main.css" rel="stylesheet" type="text/css">
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
@@ -67,7 +63,8 @@
 				</div>
 				<div class="col-md-4">
 					<!-- TemplateBeginEditable name="summarygif" -->
-					&lt;gif of the moves&gt;
+					<br/>
+					<img src="images/step-1.png" alt="" width="99" height="99" class="img-responsive center-block"/>
 					<!-- TemplateEndEditable -->
 				</div>
 				<div class="col-md-4">
@@ -138,7 +135,7 @@
 		</div>
 		<hr>
 		<div class="row">
-			<div class="col-md-8">
+			<div class="col-md-4">
 				<h3> The Moves</h3>
 				
 				<!-- TemplateBeginEditable name="moves" -->
@@ -162,6 +159,17 @@
 			<div class="col-md-4">
 				<!-- TemplateBeginEditable name="movesimage" -->
 				&lt;grid illustration of each move&gt;
+				<!-- TemplateEndEditable -->
+			</div>
+		</div>
+		<hr/>
+		<div class="row">
+			<div class="col-md-4 col-md-offset-8 text-center">
+				<h3>Next step...</h3>
+				
+				<!-- TemplateBeginEditable name="nextbutton" -->
+				
+				<h4><a href="#"><span class="glyphicon glyphicon-arrow-right"></span></a></h4>
 				<!-- TemplateEndEditable -->
 			</div>
 		</div>
