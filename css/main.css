@@ -16,6 +16,10 @@
 	border-right-color: #111;
 }
 
+.btn a {
+	color: #fff;
+}
+
 .square-button {
 	width:50%;
 	padding: 20% 0;
